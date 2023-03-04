@@ -1,7 +1,6 @@
-<div align="center">
-  <a href="https://github.com/brendaschussler">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaschussler&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Olá! Eu sou a Brenda! 🖐️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaschussler&langs_count=10&layout=compact&theme=cobalt&card_width=500&title_color=ff0099&bg_color=000022&text_color=ff99cc)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Brenda-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
