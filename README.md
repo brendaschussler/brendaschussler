@@ -1,11 +1,15 @@
 ## Olá! Eu sou a Brenda! 🖐️
 
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaschussler&langs_count=10&layout=compact&theme=cobalt&card_width=500&title_color=ff0099&bg_color=000022&text_color=ff99cc" alt="Top Linguagens">
 </p>
 
-  
- <div align="center" style="display: inline_block"><br>
+ <br>
+
+ 
+### Linguagens e Ferramentas:
+ <div>
   <img align="center" alt="Brenda-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Brenda-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brenda-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
