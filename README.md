@@ -1,5 +1,8 @@
 ## Olá! Eu sou a Brenda! 🖐️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaschussler&langs_count=10&layout=compact&theme=cobalt&card_width=500&title_color=ff0099&bg_color=000022&text_color=ff99cc)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaschussler&langs_count=10&layout=compact&theme=cobalt&card_width=500&title_color=ff0099&bg_color=000022&text_color=ff99cc" alt="Top Linguagens">
+</p>
 
   
 <div style="display: inline_block"><br>
