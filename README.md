@@ -29,7 +29,4 @@
   <a href = "mailto:brendaschussler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
- <div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brendaschussler}/count.svg" /></p> 
-</div>
+
